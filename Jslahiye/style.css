@@ -1,4 +1,4 @@
-.todo-container{
+ .todo-container{
     width: 336px;
     border: 1px solid #C4C4C4;
     border-radius: 10px;
@@ -134,6 +134,7 @@ button#add-button p{
 .delete-button:hover, .delete-button.clicked {
     background-color: #833AE0;  
 }
+ 
  
  
 
